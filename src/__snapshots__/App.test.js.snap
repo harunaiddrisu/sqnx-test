@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders grid correctly 1`] = `
+<div
+  data-css-q2vgoc=""
+>
+  <div
+    data-css-12k7nt2=""
+  >
+    <section
+      data-css-1u9xw1i=""
+    >
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              1. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              2. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              3. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              4. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              5. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+    </section>
+    <section
+      data-css-12k81u0=""
+    >
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              6. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              7. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              8. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              9. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+    </section>
+    <section
+      data-css-j174in=""
+    >
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              10. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              11. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              12. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              13. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              14. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img
+            alt="Lorem Ipsum"
+            src="https://placehold.it/1920x1080"
+          />
+          <figcaption>
+            <h3>
+              15. Lorem Ipsum
+            </h3>
+            Lorem ipsum dolor sit amet, consectetur...
+          </figcaption>
+        </figure>
+      </div>
+    </section>
+  </div>
+</div>
+`;
+
+exports[`renders grid item correctly 1`] = `
+<div>
+  <figure>
+    <img
+      alt="Lorem Ipsum"
+      src="https://placehold.it/1920x1080"
+    />
+    <figcaption>
+      <h3>
+        1. Lorem Ipsum
+      </h3>
+      Lorem ipsum dolor sit amet, consectetur...
+    </figcaption>
+  </figure>
+</div>
+`;
